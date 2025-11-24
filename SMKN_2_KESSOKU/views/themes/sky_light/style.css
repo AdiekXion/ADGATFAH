@@ -399,3 +399,11 @@ footer .page-title {
 #return-to-top:hover i {
    color: #fff;
 }
+.balal{
+	  justify-content: center;
+      display: flex;
+      background: white;
+      padding: auto;
+      border-radius: auto;
+      width: flex;
+    }
